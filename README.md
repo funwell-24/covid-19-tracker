@@ -76,4 +76,4 @@ The primary dataset used is from [Our World in Data](https://ourworldindata.org/
 ### Option 1: Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/covid-19-tracker.git
+   git clone https://github.com/funwell-24/covid-19-tracker.git
