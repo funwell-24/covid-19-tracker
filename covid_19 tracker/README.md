@@ -1,4 +1,4 @@
-# COVID-19 Global Data Tracker
+# COVID-19 Global Data Tracker.
 
 ## Project Description
 This project analyzes global COVID-19 trends using real-world data from [Our World in Data](https://ourworldindata.org/covid-deaths).  
